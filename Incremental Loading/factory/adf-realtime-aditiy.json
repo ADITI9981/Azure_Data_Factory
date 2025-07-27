@@ -1,0 +1,9 @@
+{
+	"name": "adf-realtime-aditiy",
+	"location": "eastasia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "5b4d3cec-df89-4c66-893d-1ac97fb2f516",
+		"tenantId": "96ebd2cf-e2a3-4356-9c81-f127757f3b90"
+	}
+}
